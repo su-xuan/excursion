@@ -1,10 +1,9 @@
 html {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
-.verdana {
-  font-family: verdana;
-}
+
 .white {
   color: white;
 }
